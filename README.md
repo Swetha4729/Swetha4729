@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img width="1060" height="180" alt="image" src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" />
 </div>
+
 
 <img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/c7/a1/c0/c7a1c036e00c35b7d663c342c874f033.gif">
 
