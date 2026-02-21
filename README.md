@@ -5,8 +5,8 @@
 <img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/c7/a1/c0/c7a1c036e00c35b7d663c342c874f033.gif">
 
 
-# 😁😁 Hiii WELCOME...
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif https://in.pinterest.com/pin/58828338877225939/" width="30px"/> I’m  Swetha, A Enthuastic Full Stack Developer <br>🔭 I’m currently working improving myself<br>👯 I’m looking for a internship to enhance my skills<br>🌱 I’m currently learning Machine Learning
+# Hiii WELCOME TO MY GITHUB 🙋🏻‍♀️...
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif https://in.pinterest.com/pin/58828338877225939/" width="30px"/> 😊 I’m  Swetha, A Enthuastic Full Stack Developer <br>🔭 I’m currently working improving myself<br>👯 I’m looking for a internship to enhance my skills<br>🌱 I’m currently learning Machine Learning
 
 
 <br>
