@@ -49,7 +49,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />  **My Quote**
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+TRUST+THE+PROCESS,+NOT+THE+OUTCOME...&center=true&width=500&height=90&color=16A34A&duration=4000&pause=500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+BELIVE+IN+YOURSELF&center=true&width=500&height=90&color=16A34A&duration=4000&pause=500">
   </a>
 </div>
 
