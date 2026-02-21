@@ -6,7 +6,7 @@
 
 
 # 💫 Hiii!! There, WELCOME...
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m  Swetha, A Enthuastic Full Stack Developer <br>🔭 I’m currently working improving myself<br>👯 I’m looking for a internship to enhance my skills<br>🌱 I’m currently learning Machine Learning
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://in.pinterest.com/pin/58828338877225939/" width="30px"/> I’m  Swetha, A Enthuastic Full Stack Developer <br>🔭 I’m currently working improving myself<br>👯 I’m looking for a internship to enhance my skills<br>🌱 I’m currently learning Machine Learning
 
 
 <br>
